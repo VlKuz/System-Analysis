@@ -5,3 +5,4 @@
 2. [ДЗ №2 (Основы бизнес-анализа. Комплексный верхнеуровневый бизнес-анализ)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_2)
 3. [ДЗ №3 (Изучение систем, их видов и свойств)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_3)
 4. [ДЗ №4 (Методы сбора и фиксации требований)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_4)
+4. [ДЗ №5 (Сравнение нотаций и языков моделирования процессов)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_5)
