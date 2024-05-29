@@ -7,3 +7,4 @@
 4. [ДЗ №4 (Методы сбора и фиксации требований)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_4)
 5. [ДЗ №5 (Сравнение нотаций и языков моделирования процессов)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_5)
 6. [ДЗ №6 (Основы хранения данных)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_6)
+7. [ДЗ №7 (Основы проектирования ИС и API)](https://github.com/VlKuz/YlabCourse.System-Analysis/tree/master/homework_7)
